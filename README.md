@@ -23,10 +23,19 @@ A Fashion Sustainability AI Project for the 2024 Mozilla Foundation Proposal
 
 ## Branding
 
-
 ![test](https://i.imgur.com/MF6KGIl.png)
 <p align="center">
-  Figure 4: The application logos.
+  Figure 4: Reinstyle application logos.
+</p>
+
+![test](https://i.imgur.com/xCsTX4m.png)
+<p align="center">
+  Figure 5: Reinstyle color coding.
+</p>
+
+![test](https://i.imgur.com/uCxShnI.png)
+<p align="center">
+  Figure 6: Reinstyle rebranding process.
 </p>
 
 
@@ -34,9 +43,24 @@ A Fashion Sustainability AI Project for the 2024 Mozilla Foundation Proposal
 
 ![test](https://i.imgur.com/rzB9vzb.png)
 <p align="center">
-  Figure 5: The programming schematic for the outfit picking backend.
+  Figure 7: The programming schematic for the outfit picking backend.
 </p>
 
+## Brainstorming Process
 
+![test](https://i.imgur.com/Ec4RTAK.png)
+<p align="center">
+  Figure 8: Reinstyle low-fidelity design.
+</p>
+
+![test](https://i.imgur.com/Txmx3KI.png)
+<p align="center">
+  Figure 9: Branding brainstorming.
+</p>
+
+![test](https://i.imgur.com/CoAmQ9s.png)
+<p align="center">
+  Figure 10: Reinstyle low-fidelity wireframes.
+</p>
 
 
